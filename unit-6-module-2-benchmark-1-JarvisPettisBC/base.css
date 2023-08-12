@@ -1,0 +1,14 @@
+:root {
+  font-size: 20px;
+  line-height: 1.5;
+  font-family: sans-serif;
+}
+
+body {
+  width: 35rem;
+  margin: auto;
+}
+
+code {
+  background: lightgray;
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Task 2</title>
+    <script src="task2.js" defer></script>
+    <link rel="stylesheet" href="base.css" />
+  </head>
+  <body>
+    <h1>Task 2</h1>
+    <p>
+      Synchronize <code>#target</code>'s font size with the value
+      <code>fontsizeInput</code>'s value (in rem). For example, if the value of
+      <code>fontsizeInput</code> is 2, the font size of
+      <code>#target</code> should be 2rem.
+    </p>
+    <p>
+      Additionally, change the text of <code>#target</code> as the font size
+      changes. If the font size is less than 1 rem, change the text to "small".
+      If the font size is larger than 1 rem, change the text to "big". If the
+      font size is exactly 1 rem, change the text to "normal".
+    </p>
+    <p>
+      Write your solution in <code>task2.js</code>. It has already been linked
+      to this page for you.
+    </p>
+    <label>
+      Font Size:
+      <input
+        type="range"
+        name="fontsize"
+        id="fontsizeInput"
+        min="0"
+        max="5"
+        step=".5"
+      />
+    </label>
+    <p id="target">normal</p>
+  </body>
+</html>
