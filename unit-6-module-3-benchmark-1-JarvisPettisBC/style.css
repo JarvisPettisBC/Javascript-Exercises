@@ -1,0 +1,35 @@
+:root {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  padding: 2rem;
+  max-width: 40rem;
+  margin: auto;
+}
+
+#author-header h1 {
+  margin-bottom: 0;
+}
+
+#author-header p {
+  margin-top: 0;
+  color: #555;
+}
+
+#posts article {
+  margin-bottom: 4rem;
+}
+
+#posts article:not(:first-of-type) {
+  padding-top: 2rem;
+  border-top: solid 2px #ccc;
+}
+
+#posts article h2 {
+  margin-bottom: 0;
+}
+#posts article p:first-of-type {
+  margin-top: 0.5rem;
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Ignatius",
+    "last_name": "Fishleigh",
+    "email": "ifishleigh0@about.com",
+    "username": "ifishleigh0"
+  },
+  {
+    "id": 2,
+    "first_name": "Cordula",
+    "last_name": "Leake",
+    "email": "cleake1@devhub.com",
+    "username": "cleake1"
+  },
+  {
+    "id": 3,
+    "first_name": "Tierney",
+    "last_name": "Thorowgood",
+    "email": "tthorowgood2@youtube.com",
+    "username": "tthorowgood2"
+  },
+  {
+    "id": 4,
+    "first_name": "Claudelle",
+    "last_name": "Figliovanni",
+    "email": "cfigliovanni3@time.com",
+    "username": "cfigliovanni3"
+  },
+  {
+    "id": 5,
+    "first_name": "Arlan",
+    "last_name": "Scotting",
+    "email": "ascotting4@topsy.com",
+    "username": "ascotting4"
+  },
+  {
+    "id": 6,
+    "first_name": "Merle",
+    "last_name": "Friday",
+    "email": "mfriday5@blog.com",
+    "username": "mfriday5"
+  },
+  {
+    "id": 7,
+    "first_name": "Carlyn",
+    "last_name": "Sabine",
+    "email": "csabine6@nymag.com",
+    "username": "csabine6"
+  },
+  {
+    "id": 8,
+    "first_name": "Danice",
+    "last_name": "Mateev",
+    "email": "dmateev7@pcworld.com",
+    "username": "dmateev7"
+  },
+  {
+    "id": 9,
+    "first_name": "Nicko",
+    "last_name": "McKeon",
+    "email": "nmckeon8@narod.ru",
+    "username": "nmckeon8"
+  },
+  {
+    "id": 10,
+    "first_name": "Abagael",
+    "last_name": "L'Hommeau",
+    "email": "alhommeau9@yahoo.co.jp",
+    "username": "alhommeau9"
+  }
+]
